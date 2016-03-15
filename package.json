@@ -1,5 +1,5 @@
 {
-  "name": "react-date-picker",
+  "name": "react-date-picker-plus",
   "version": "4.0.10",
   "description": "A carefully crafted date picker for React",
   "main": "lib/index.js",
